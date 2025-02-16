@@ -1,0 +1,7 @@
+C:/Users/OMISTAJA/Documents/viikkotehtava6/build/CMakeFiles/viikkotehtava6.dir
+C:/Users/OMISTAJA/Documents/viikkotehtava6/build/CMakeFiles/edit_cache.dir
+C:/Users/OMISTAJA/Documents/viikkotehtava6/build/CMakeFiles/rebuild_cache.dir
+C:/Users/OMISTAJA/Documents/viikkotehtava6/build/CMakeFiles/list_install_components.dir
+C:/Users/OMISTAJA/Documents/viikkotehtava6/build/CMakeFiles/install.dir
+C:/Users/OMISTAJA/Documents/viikkotehtava6/build/CMakeFiles/install/local.dir
+C:/Users/OMISTAJA/Documents/viikkotehtava6/build/CMakeFiles/install/strip.dir
